@@ -1,2 +1,0 @@
-# zuvytes.github.io
-zuvys
